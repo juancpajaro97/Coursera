@@ -1,2 +1,2 @@
 # Coursera
-Codes used in courses in Coursera
+Codes used in courses on Coursera
